@@ -48,7 +48,3 @@ I work at the intersection of **LLM evaluation, RLHF, and delivery engineering**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thirunaa&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
-</p>
